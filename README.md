@@ -54,7 +54,8 @@
 
 </td>
 
-[def]: https://github-readme-stats.vercel.app/api/top-langs/?username=javitmx&layout=compact&theme=dark
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+
 </tr>
 </table>
 <!--- stats (end) -->
