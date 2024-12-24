@@ -43,11 +43,12 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt /></p>
 
 </td>
 
 <td width="50%" align="center">
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt /></p>
+
 
 <img src="img/libro-pixelart-github.gif">
 
