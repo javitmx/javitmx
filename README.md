@@ -36,17 +36,29 @@
 </p>
 
 
-<!-- Stats & Trophy (start) -->
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark)
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+</td>
 
-![Libro PixelArt](img/libro-pixelart-github.gif)
+<td width="50%" align="center">
 
-<!-- Stats & Trophy (end) -->
+<img src="img/libro-pixelart-github.gif">
 
+</td>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+
+</tr>
+</table>
+<!--- stats (end) -->
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
