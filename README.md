@@ -28,19 +28,15 @@
 </p>
 
 
+<!--- stats & Trophy (start) -->
+
 ![Top Langs][def]
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javitmx&theme=merko&show_icons=true)
 
 
-
-
-
-
-
-
 [def]: https://github-readme-stats.vercel.app/api/top-langs/?username=javitmx&layout=compact&theme=dark
+
+<!--- stats & Trophy (start) -->
 
 <!-- BLOG-POST-LIST:END -->
 
