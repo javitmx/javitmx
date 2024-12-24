@@ -43,8 +43,7 @@
 <tr border="none">
 <td width="50%" align="center">
 
-![Top Langs][def]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javitmx&theme=merko&show_icons=true)
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410"/></p>
 
 </td>
 
