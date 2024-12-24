@@ -5,7 +5,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;"> 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Javi+Tmx&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=𝕭𝖎𝖊𝖓𝖛𝖊𝖓𝖎𝖉@+𝖆𝖑+ 𝖌𝖎𝖙𝖍𝖚𝖇+𝖉𝖊+𝕵𝖆𝖛𝖎+𝕿𝖒𝖝...&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <h1>𝕭𝖎𝖊𝖓𝖛𝖊𝖓𝖎𝖉@ 𝖆𝖑 𝖌𝖎𝖙𝖍𝖚𝖇 𝖉𝖊 𝕵𝖆𝖛𝖎𝕿𝖒𝖝</h1>
 </div>
