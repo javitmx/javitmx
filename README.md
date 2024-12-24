@@ -50,9 +50,10 @@
 
 <td width="50%" align="center">
 
-[def]: https://github-readme-stats.vercel.app/api/top-langs/?username=javitmx&layout=compact&theme=dark
 
 </td>
+
+[def]: https://github-readme-stats.vercel.app/api/top-langs/?username=javitmx&layout=compact&theme=dark
 </tr>
 </table>
 <!--- stats (end) -->
