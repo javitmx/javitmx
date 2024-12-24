@@ -40,7 +40,7 @@
 |  |  |
 |--|--|
 | ![Stats](https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark)  | ![Libro PixelArt](img/libro-pixelart-github.gif) |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark) |  |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark) 
 
 <!-- stats & Trophy (end) -->
 
