@@ -43,10 +43,9 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javitmx&show_icons=true&locale=en&theme=chartreuse-dark"></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javitmx&show_icons=true&locale=en&theme=chartreuse-dark"></p>
 
 </td>
 
