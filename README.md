@@ -1,5 +1,4 @@
-
-  
+<!--horizontal divider(gradiant)-->
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNoajRwcHR4MjB1OHBsNTV2OWtybno0eTBjcG5iN3QxazA1enQ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aPVYj9MCC3aovp7cDs/giphy.gif" style="width: 50px;">
  
 
@@ -36,6 +35,8 @@
 
 [def]: https://github-readme-stats.vercel.app/api/top-langs/?username=javitmx&layout=compact&theme=dark
 
+
+<!--horizontal divider(gradiant)-->
 <!--- stats & Trophy (start) -->
 
 <!-- BLOG-POST-LIST:END -->
