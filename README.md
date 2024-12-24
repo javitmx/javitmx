@@ -1,13 +1,12 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNoajRwcHR4MjB1OHBsNTV2OWtybno0eTBjcG5iN3QxazA1enQ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aPVYj9MCC3aovp7cDs/giphy.gif" style="width: 50px;">
- 
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=𝕭𝖎𝖊𝖓𝖛𝖊𝖓𝖎𝖉+Javi+Tmx&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Me+Encanta+Aprender+new+stuffs..<3"></a>
 </p>
+
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNoajRwcHR4MjB1OHBsNTV2OWtybno0eTBjcG5iN3QxazA1enQ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aPVYj9MCC3aovp7cDs/giphy.gif" style="width: 50px;">
+ 
 
 <h1 align="center">𝕭𝖎𝖊𝖓𝖛𝖊𝖓𝖎𝖉@ 𝖆𝖑 𝖌𝖎𝖙𝖍𝖚𝖇 𝖉𝖊 𝕵𝖆𝖛𝖎𝕿𝖒𝖝</h1>
 
