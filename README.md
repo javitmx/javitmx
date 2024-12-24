@@ -45,6 +45,9 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark"></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+
+
 </td>
 
 <td width="50%" align="center">
@@ -52,8 +55,6 @@
 <img src="img/libro-pixelart-github.gif">
 
 </td>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
 </tr>
 </table>
