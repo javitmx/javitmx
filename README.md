@@ -36,13 +36,16 @@
 </p>
 
 
-<!-- stats & Trophy (start) -->
-|  |  |
-|--|--|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark)  | ![Libro PixelArt](img/libro-pixelart-github.gif) |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark) 
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 300px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="Stats" />
+    </div>
+    <div style="flex: 1; min-width: 300px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+        <img src="img/libro-pixelart-github.gif" alt="Libro PixelArt" />
+    </div>
+</div>
 
-<!-- stats & Trophy (end) -->
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
