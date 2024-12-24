@@ -46,14 +46,14 @@
 ![Top Langs][def]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javitmx&theme=merko&show_icons=true)
 
+[def]: https://github-readme-stats.vercel.app/api/top-langs/?username=javitmx&layout=compact&theme=dark
+
 </td>
 
 <td width="50%" align="center">
 
 
 </td>
-
-[def]: https://github-readme-stats.vercel.app/api/top-langs/?username=javitmx&layout=compact&theme=dark
 </tr>
 </table>
 <!--- stats (end) -->
