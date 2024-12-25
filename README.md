@@ -76,9 +76,9 @@
 
 
 <div align="center">
-<h1>
+<h3>
 <b>Contactate Con Migo Por:</b>
-</h1>
+</h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javiTMX) 
 
