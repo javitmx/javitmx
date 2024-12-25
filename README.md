@@ -71,17 +71,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </picture>
 
----
+
 <hr>
-contactate con migo por:
+
 
 <div align="center">
+<b>Contactate Con Migo Por:</b>
+
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javiTMX) 
 
 </div>
 
----
+<hr>
 
 </p>
 <p align="center">
