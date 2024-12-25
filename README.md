@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-
+<div>
 <picture>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </picture>
@@ -14,7 +14,7 @@
   </picture>
 
   </div>
- 
+</div> 
 
 <h1 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>𝕭𝖎𝖊𝖓𝖛𝖊𝖓𝖎𝖉@ 𝖆𝖑 𝖌𝖎𝖙𝖍𝖚𝖇 𝖉𝖊 𝕵𝖆𝖛𝖎𝕿𝖒𝖝</h1>
 
