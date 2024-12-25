@@ -72,12 +72,16 @@
 </picture>
 
 ---
+<hr>
+contactate con migo por:
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javiTMX) 
 
 </div>
+
+---
 
 </p>
 <p align="center">
