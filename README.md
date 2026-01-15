@@ -14,7 +14,7 @@
 
 <h1 align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40"> 
-  𝕭𝖎𝖊𝖓𝖛𝖊𝖓𝖎𝖉𝖔 @ 𝖆𝖑 𝖌𝖎𝖙𝖍𝖚𝖇 𝖉𝖊 𝕵𝖆𝖛𝖎𝕿𝖒𝖝
+  𝕭𝖎𝖊𝖓𝖛𝖊𝖓𝖎𝖉@ 𝖆𝖑 𝖌𝖎𝖙𝖍𝖚𝖇 𝖉𝖊 𝕵𝖆𝖛𝖎𝕿𝖒𝖝
 </h1>
 
 <br>
