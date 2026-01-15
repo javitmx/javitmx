@@ -45,19 +45,21 @@
 <br>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javitmx&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+  <table align="center" style="border: none; border-collapse: collapse; background: transparent;">
+    <tr style="border: none;">
+      <td align="center" width="50%" style="border: none; vertical-align: middle;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javitmx&show_icons=true&locale=es&layout=compact&theme=chartreuse-dark" alt="Top Languages" style="margin-bottom: 10px;">
         <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=javitmx&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=javitmx&show_icons=true&locale=es&theme=chartreuse-dark" alt="GitHub Stats">
       </td>
-      <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1S8PhU8VHeZfN5h1Y/giphy.gif" width="200" alt="Pixel Art Book">
+      <td align="center" width="50%" style="border: none; vertical-align: middle;">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1S8PhU8VHeZfN5h1Y/giphy.gif" width="280" alt="Pixel Art Book">
       </td>
     </tr>
   </table>
 </div>
+
+<br>
 
 <div align="center">
   <h3><b>Contribuciones en el Tiempo</b></h3>
