@@ -59,6 +59,10 @@
   </table>
 </div>
 
+<div align="center">
+  <h3><b>Contribuciones en el Tiempo</b></h3>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</div>
 
 <hr>
 <div align="center">
