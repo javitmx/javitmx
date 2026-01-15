@@ -43,24 +43,22 @@
 </div>
 
 <br>
+
 <div align="center">
-  <table align="center" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td width="50%" align="center" style="border: none; vertical-align: middle;">
-        <a href="https://github.com/javitmx">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javitmx&show_icons=true&locale=es&layout=compact&theme=chartreuse-dark" alt="Mis Lenguajes" style="margin-bottom: 10px;">
-        </a>
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javitmx&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
         <br>
-        <a href="https://github.com/javitmx">
-          <img src="https://github-readme-stats.vercel.app/api?username=javitmx&show_icons=true&locale=es&theme=chartreuse-dark" alt="Mis Estadísticas">
-        </a>
+        <img src="https://github-readme-stats.vercel.app/api?username=javitmx&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
       </td>
-      <td width="50%" align="center" style="border: none; vertical-align: middle;">
-        <img src="img/libro-pixelart-github.gif" width="300" alt="Libro Mágico">
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1S8PhU8VHeZfN5h1Y/giphy.gif" width="200" alt="Pixel Art Book">
       </td>
     </tr>
   </table>
 </div>
+
 
 <hr>
 <div align="center">
