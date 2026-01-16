@@ -12,18 +12,13 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNoajRwcHR4MjB1OHBsNTV2OWtybno0eTBjcG5iN3QxazA1enQ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aPVYj9MCC3aovp7cDs/giphy.gif" width="400" alt="Matrix Code">
 </div>
 
-<div align="center">
-  <table align="center" style="border: none; border-collapse: collapse; border-spacing: 0; background-color: transparent;">
-    <tr style="border: none;">
-      <td align="center" style="border: none; border-bottom: none;">
-        <h1 align="center" style="border: none; border-bottom: none; margin-bottom: 0;">
-          <img src="img/about_me.gif"> 
-          𝔈𝔏 ℭ𝔬𝔫𝔬𝔠𝔦𝔪𝔦𝔢𝔫𝔱𝔬 𝔢𝔰 𝔓𝔬𝔡𝔢𝔯
-        </h1>
-      </td>
-    </tr>
-  </table>
-</div>
+<div align=center>
+  <br>
+  <a href=https://git.io/typing-svg>
+    <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=200000&color=6FDA44&center=true&vCenter=true&width=60>
+  </a>
+  <br>
+</div
 
 <br>
 
