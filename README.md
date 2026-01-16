@@ -12,13 +12,13 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNoajRwcHR4MjB1OHBsNTV2OWtybno0eTBjcG5iN3QxazA1enQ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aPVYj9MCC3aovp7cDs/giphy.gif" width="400" alt="Matrix Code">
 </div>
 
-<div align=center>
+<div align="center">
   <br>
-  <a href=https://git.io/typing-svg>
-    <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=200000&color=6FDA44&center=true&vCenter=true&width=60>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=500000&color=6FDA44&center=true&vCenter=true&width=600&lines=+𝔈𝔏+ℭ𝔬𝔫𝔬𝔠𝔦𝔪𝔦𝔢𝔫𝔱𝔬+𝔢𝔰+𝔓𝔬𝔡𝔢𝔯" alt="El Conocimiento es Poder">
   </a>
   <br>
-</div
+</div>
 
 <br>
 
@@ -60,7 +60,7 @@
         <img src="img/alien_github_profile.jpeg" alt="Alien">
       </td>
       <td align="center" width="50%" style="border: none; vertical-align: middle;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1S8PhU8VHeZfN5h1Y/giphy.gif" width="280" alt="Pixel Art Book">
+        <img src="img/" width="280" alt="Pixel Art Book">
       </td>
     </tr>
   </table>
