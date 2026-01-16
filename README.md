@@ -12,10 +12,18 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNoajRwcHR4MjB1OHBsNTV2OWtybno0eTBjcG5iN3QxazA1enQ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aPVYj9MCC3aovp7cDs/giphy.gif" width="400" alt="Matrix Code">
 </div>
 
-<h1 align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40"> 
-  𝕭𝖎𝖊𝖓𝖛𝖊𝖓𝖎𝖉@ 𝖆𝖑 𝖌𝖎𝖙𝖍𝖚𝖇 𝖉𝖊 𝕵𝖆𝖛𝖎𝕿𝖒𝖝
-</h1>
+<div align="center">
+  <table align="center" style="border: none; border-collapse: collapse; border-spacing: 0; background-color: transparent;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; border-bottom: none;">
+        <h1 align="center" style="border: none; border-bottom: none; margin-bottom: 0;">
+          <img src="img/about_me.gif"> 
+          𝔈𝔏 ℭ𝔬𝔫𝔬𝔠𝔦𝔪𝔦𝔢𝔫𝔱𝔬 𝔢𝔰 𝔓𝔬𝔡𝔢𝔯
+        </h1>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
@@ -42,6 +50,7 @@
   </p>
 </div>
 
+
 <br>
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFFF&strokeWidth=6&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
@@ -52,9 +61,8 @@
   <table align="center" style="border: none; border-collapse: collapse; background: transparent;">
     <tr style="border: none;">
       <td align="center" width="50%" style="border: none; vertical-align: middle;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javitmx&show_icons=true&locale=es&layout=compact&theme=chartreuse-dark" alt="Top Languages" style="margin-bottom: 10px;">
         <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=javitmx&show_icons=true&locale=es&theme=chartreuse-dark" alt="GitHub Stats">
+        <img src="img/alien_github_profile.jpeg" alt="Alien">
       </td>
       <td align="center" width="50%" style="border: none; vertical-align: middle;">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1S8PhU8VHeZfN5h1Y/giphy.gif" width="280" alt="Pixel Art Book">
