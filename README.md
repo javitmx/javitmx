@@ -11,23 +11,28 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNoajRwcHR4MjB1OHBsNTV2OWtybno0eTBjcG5iN3QxazA1enQ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aPVYj9MCC3aovp7cDs/giphy.gif" width="400" alt="Matrix Code">
 </div>
-
 <div align="center">
   <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=500000&color=6FDA44&center=true&vCenter=true&width=600&lines=+𝔈𝔏+ℭ𝔬𝔫𝔬𝔠𝔦𝔪𝔦𝔢𝔫𝔱𝔬+𝔢𝔰+𝔓𝔬𝔡𝔢𝔯" alt="El Conocimiento es Poder">
-  </a>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="./img/about_me.gif" height="40" alt="Icono Hacker">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=500000&color=6FDA44&center=true&vCenter=true&width=400&lines=𝔈𝔏+ℭ𝔬𝔫𝔬𝔠𝔦𝔪𝔦𝔢𝔫𝔱𝔬+𝔢𝔰+𝔓𝔬𝔡𝔢𝔯" alt="Texto Animado">
+  </div>
   <br>
 </div>
 
 <br>
 
 <div align="center">
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 
-    <b>Habilidades Técnicas</b>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="40">
-  </h2>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFFF&strokeWidth=6&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
+</div>
+
+<div align="center">
+  <br>
+  <div align="center">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="vertical-align: middle;"> 
+    <span style="font-size: 1.5em; font-weight: bold;">Habilidades Técnicas</span>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="40" style="vertical-align: middle;">
+  </div>
 
   <p>
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
@@ -45,10 +50,9 @@
   </p>
 </div>
 
-
 <br>
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFFF&strokeWidth=6&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img width="100%" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFFF&strokeWidth=6&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 
@@ -60,7 +64,7 @@
         <img src="img/alien_github_profile.jpeg" alt="Alien">
       </td>
       <td align="center" width="50%" style="border: none; vertical-align: middle;">
-        <img src="img/" width="280" alt="Pixel Art Book">
+        <img src="img/libro-pixelart-github.gif" width="280" alt="Pixel Art Book">
       </td>
     </tr>
   </table>
