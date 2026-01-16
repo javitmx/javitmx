@@ -16,40 +16,37 @@
   <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
     <img src="./img/about_me.gif" height="40" alt="Icono Hacker">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=500000&color=6FDA44&center=true&vCenter=true&width=400&lines=𝔈𝔏+ℭ𝔬𝔫𝔬𝔠𝔦𝔪𝔦𝔢𝔫𝔱𝔬+𝔢𝔰+𝔓𝔬𝔡𝔢𝔯" alt="Texto Animado">
+    <img src="./img/about_me.gif" height="40" alt="Icono Hacker">
   </div>
   <br>
 </div>
 
+  <img width="100%" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFFF&strokeWidth=6&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 <br>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFFF&strokeWidth=6&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
-</div>
-
 <div align="center">
   <br>
-  <div align="center">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="vertical-align: middle;"> 
-    <span style="font-size: 1.5em; font-weight: bold;">Habilidades Técnicas</span>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="40" style="vertical-align: middle;">
-  </div>
-
-  <p>
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-    <img src="https://img.shields.io/badge/HackTheBox-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <p align="center">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50" style="vertical-align: middle;">
+    &nbsp;
+    <img width="300" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=500000&color=6FDA44&center=true&vCenter=true&lines=𝕳𝖆𝖇𝖎𝖑𝖎𝖉𝖆𝖉𝖊𝖘" alt="Habilidades" style="vertical-align: middle;">
+    &nbsp;
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50" style="vertical-align: middle;">
   </p>
-  
-  <p>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" title="Python" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" title="Bash" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" title="Linux" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" title="Flask" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" title="MySQL" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" title="VS Code" />
+
+  <br>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="30" title="Python" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="30" title="Bash" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="30" title="Linux" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="30" title="Flask" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="30" title="MySQL" />
   </p>
 </div>
-
 <br>
 <div>
   <img width="100%" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFFF&strokeWidth=6&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
@@ -72,15 +69,20 @@
 
 <br>
 
-<div align="center">
-  <h3><b>Contribuciones en el Tiempo</b></h3>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</div>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JAVITMX/JAVITMX/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JAVITMX/JAVITMX/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JAVITMX/JAVITMX/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <hr>
 <div align="center">
   <h3><b>¿Hablamos?</b></h3>
-  <a href="https://t.me/javiTMX" target="_blank">
+  <a href="https://t.me/javitmx" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
