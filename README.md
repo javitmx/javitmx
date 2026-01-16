@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%236FDA44&size=25&center=true&vCenter=true&width=600&height=100&lines=𝕭𝖎𝖊𝖓𝖛𝖊𝖓𝖎𝖉𝖔+a+mi+Terminal;Ciberseguridad+%26+Desarrollo;Automatizando+con+Python;Pentesting+Enthusiast;Active+Learner+in+Linux" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%236FDA44&size=25&center=true&vCenter=true&width=600&height=100&lines=𝕭𝖎𝖊𝖓𝖛𝖊𝖓𝖎𝖉𝖔+a+mi+Terminal;Ciberseguridad+%26+Desarrollo;Automatizando+con+Python;Pentesting+Enthusiast;" alt="Typing SVG">
   </a>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -78,13 +78,42 @@
   </picture>
 </div>
 
-###
+### 
 
-<hr>
+<div align="center">
+ <img width="300%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=500000&color=6FDA44&center=true&vCenter=true&lines=𝖑𝖆𝖇𝖘" alt="active security labs" style="vertical-align: middle;">
+</div>
+  <br><br>
+
+  <table align="center" style="border: none; border-collapse: collapse; background-color: transparent;">
+    <tr style="border: none;">
+      <td width="300" style="border: none; padding: 10px;" valign="top">
+        <div align="center">
+          <img src="https://img.shields.io/badge/OverTheWire-Bandit-black?style=for-the-badge&logo=linux&logoColor=white" />
+          <p align="justify">
+            <font size="2">Entrenamiento intensivo en la terminal de <b>Linux</b>. Dominio de comandos, jerarquía de directorios y permisos de archivos.</font>
+          </p>
+        </div>
+      </td>
+      <td width="300" style="border: none; padding: 10px;" valign="top">
+        <div align="center">
+          <img src="https://img.shields.io/badge/HackTheBox-CandyVault-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+          <p align="justify">
+            <font size="2">Resolución de máquinas en entornos controlados, aplicando técnicas de enumeración y explotación de vulnerabilidades.</font>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <div align="center">
   <h3><b>¿Hablamos?</b></h3>
   <a href="https://t.me/javitmx" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
-<hr>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
